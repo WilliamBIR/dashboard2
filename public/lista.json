@@ -1,0 +1,45 @@
+{
+"fecha":"20210712",
+"hora":"1231",
+"page":"5",
+"cantxPage":"5",
+"pfijo1":"92",
+"cfijo1":"00",
+"nameFijo1":"Filete basa rojo - kg",
+"paginas":[
+	{"hoja":[
+		{"precio":"89","centavo":"00","producto":"Pescado para caldo troceado - kg"},
+		{"precio":"92","centavo":"00","producto":"Filete basa blanco - kg"},
+		{"precio":"92","centavo":"00","producto":"Filete basa rojo - kg"},
+		{"precio":"124","centavo":"00","producto":"Filete de tilapia - kg"},
+		{"precio":"124","centavo":"00","producto":"Mariscada - kg"}
+	]},
+	{"hoja":[
+		{"precio":"46","centavo":"00","producto":"Barrita de pescado empanizada - pza"},
+		{"precio":"46","centavo":"00","producto":"Figuritas de pescado - pza"},
+		{"precio":"182","centavo":"00","producto":"Filete de mojarra - kg"},
+		{"precio":"204","centavo":"00","producto":"Camarón coctelero - kg"},
+		{"precio":"379","centavo":"00","producto":"Camarón pacotilla - kg"}
+	]},
+	{"hoja":[
+		{"precio":"69","centavo":"00","producto":"Cubos de atún - pza"},
+		{"precio":"79","centavo":"00","producto":"Mojarra tilapia - kg"},
+		{"precio":"84","centavo":"00","producto":"Tilapia en bolsa - 500gr"},
+		{"precio":"269","centavo":"00","producto":"Lomo de atún - kg"},
+		{"precio":"339","centavo":"00","producto":"Salmón chileno - kg"}
+	]},
+	{"hoja":[
+		{"precio":"87","centavo":"00","producto":"Blanco de Nilo - 400gr"},
+		{"precio":"107","centavo":"00","producto":"Barrita de tsurimi - kg"},
+		{"precio":"99","centavo":"00","producto":"Sierra - kg"},
+		{"precio":"239","centavo":"00","producto":"Camarón chico sin cabeza - kg"},
+		{"precio":"129","centavo":"00","producto":"Pulpo - kg"}
+	]},
+	{"hoja":[
+		{"precio":"169","centavo":"00","producto":"Tilapia en bolsa - kg"},
+		{"precio":"186","centavo":"00","producto":"Camarón chico con cabeza - kg"},
+		{"precio":"239","centavo":"00","producto":"Salmón MKS con piel - pza"},
+		{"precio":"282","centavo":"00","producto":"Camarón mediano sin cabeza - kg"},
+		{"precio":"","centavo":"","producto":""}
+	]}
+]}
